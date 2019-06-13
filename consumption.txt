@@ -1,0 +1,5 @@
+80	farouk	chlef	5	15	15	8	2019
+88	ahmed	chlef	65	12	65	5	2019
+32	omar	chlef	65	65	12	5	2019
+32	far	braganca	32	95	95	5	2019
+22	ssss	portugal	32	65	65	5	2019
